@@ -1,0 +1,26 @@
+{
+  "name": "12-15-21",
+  "version": "1.0.0",
+  "description": "- Join Queries\r - Intro to Sequelize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QFults/12-15-21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QFults/12-15-21/issues"
+  },
+  "homepage": "https://github.com/QFults/12-15-21#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0-beta.3"
+  }
+}
